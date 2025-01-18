@@ -1,6 +1,6 @@
 import { Book } from "./Book";
 
-class Library {
+export class Library {
     private books: Book[];
 
     constructor(){
